@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sankalp Varma</h1>
 
 
-<h3 align="center">My name is Sankalp Varma 😄. I am currently pursuing Data Science and Artificial Intelligence(DSAI) as a part of my B.Tech. I am very much interested in Data Science and Machine learning . I have built many machine learning and computer vision projects. I have also explored the vast field of Data Analytics and Artificial Intelligence.I am also interested in front-end development and also practices that from time to time</h3>
+<h3 align="center">My name is Sankalp Varma 😄. I am currently pursuing Data Science and Artificial Intelligence(DSAI) as a part of my B.Tech gegree . I am very much interested in Data Science and Machine learning and built many machine learning and computer vision projects.I am also interested in front-end development and also practices that from time to time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalp20436&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp20436" /> </p>
 
