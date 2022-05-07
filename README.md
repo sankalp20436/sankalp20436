@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **E-receptionist - A facial recognition based artificial intelligence receptionist.**
 
-- 🌱 I’m currently learning **pytorch , tensorflow and powerBI**
+- 🌱 I’m currently learning **Deep Learning and Computer Vision **
 
 - 📫 How to reach me **sankalpvarma25@gmail.com**
 
