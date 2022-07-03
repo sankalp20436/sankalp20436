@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalp20436&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp20436" /> </p>
 
-
-- 🔭 I’m currently working on **E-receptionist - A facial recognition based artificial intelligence receptionist.**
-
 - 🌱 I’m currently learning **Deep Learning and Computer Vision **
 
 - 📫 How to reach me **sankalpvarma25@gmail.com**
